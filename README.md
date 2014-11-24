@@ -16,5 +16,4 @@ A sparkling blu dark theme.
    .red-dark      {color:#AF2715}
    .red-highlight {color:#E6402A}
    .red-pale      {color:#EE7D6E}
-   }
 ```
