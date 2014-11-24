@@ -3,7 +3,9 @@ presets
 
 Just a Blender theme.
 
-The iSarch Blender theme styled along with the brand.
+### The iSarch Blender theme styled along with the brand.
+
+A sparkling blu dark theme 
 
 ```css
    /* Blues */
