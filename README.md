@@ -18,7 +18,7 @@ A sparkling blu dark theme.
 	.red-pale      {color:#EE7D6E}
 ```
 
-The Text Editor makes use of the [GgitHub] styles within the iSarch theme above
+The Text Editor makes use of the [GitHub] styles within the iSarch theme above
 
 ```xml
 	<ThemeTextEditor line_numbers_background="#F7F7F7"
@@ -30,8 +30,8 @@ The Text Editor makes use of the [GgitHub] styles within the iSarch theme above
 		syntax_preprocessor="#0086B3"
 		syntax_reserved="#AF2715"
 		syntax_comment="#969896"
-		syntax_string="#6e00ff"
-		syntax_numbers="#0086b3">
+		syntax_string="#6E00FF"
+		syntax_numbers="#0086B3">
 ```
 
 [GgitHub]:https://github.com/
