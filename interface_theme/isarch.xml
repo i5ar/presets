@@ -684,7 +684,7 @@
                        syntax_preprocessor="#0086B3"
                        syntax_reserved="#AF2715"
                        syntax_comment="#969896"
-                       syntax_string="#6e00ff"
+                       syntax_string="#DF5000"
                        syntax_numbers="#0086b3">
         <space>
           <ThemeSpaceGeneric back="#FFFFFF"
