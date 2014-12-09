@@ -675,21 +675,21 @@
       </ThemeProperties>
     </properties>
     <text_editor>
-      <ThemeTextEditor line_numbers_background="#333745"
-                       selected_text="#e6402a"
+      <ThemeTextEditor line_numbers_background="#F7F7F7"
+                       selected_text="#B2CCE6"
                        cursor="#E6402A"
-                       syntax_builtin="#d6ff01"
-                       syntax_symbols="#4c4c4c"
-                       syntax_special="#33a500"
-                       syntax_preprocessor="#be00ff"
-                       syntax_reserved="#8c3c00"
-                       syntax_comment="#249d60"
+                       syntax_builtin="#A71D5D"
+                       syntax_symbols="#333333"
+                       syntax_special="#A71D5D"
+                       syntax_preprocessor="#0086B3"
+                       syntax_reserved="#AF2715"
+                       syntax_comment="#969896"
                        syntax_string="#6e00ff"
-                       syntax_numbers="#af2715">
+                       syntax_numbers="#0086b3">
         <space>
-          <ThemeSpaceGeneric back="#1D2028"
+          <ThemeSpaceGeneric back="#FFFFFF"
                              title="#1d2028"
-                             text="#77c4d3"
+                             text="#333333"
                              text_hi="#ffffff"
                              header="#1d2028"
                              header_text="#acacac"
