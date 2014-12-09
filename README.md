@@ -34,4 +34,4 @@ The Text Editor makes use of the [GitHub] styles within the iSarch theme above
 		syntax_numbers="#0086B3">
 ```
 
-[GgitHub]:https://github.com/
+[GitHub]:https://github.com/
