@@ -242,7 +242,7 @@
                    wire_edit="#93237f"
                    lamp="#ffffff34"
                    speaker="#93237f"
-                   camera="#333745"
+                   camera="#494E62"
                    view_overlay="#1d2028"
                    empty="#93237f"
                    object_selected="#f15800"
@@ -928,12 +928,12 @@
       </ThemeUserPreferences>
     </user_preferences>
     <console>
-      <ThemeConsole line_output="#97f500"
-                    line_input="#77c4d3"
-                    line_info="#E6402A"
-                    line_error="#ff0000"
+      <ThemeConsole line_output="#50B3C7"
+                    line_input="#9ED5DF"
+                    line_info="#AF2715"
+                    line_error="#AF2715"
                     cursor="#E6402A"
-                    select="#e6402a80">
+                    select="#EE7D6E80">
         <space>
           <ThemeSpaceGeneric back="#1D2028"
                              title="#1d2028"
