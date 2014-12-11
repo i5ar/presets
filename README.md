@@ -38,8 +38,8 @@ Blender v2.72
 - Graph Editor
 - Dope Sheet
 
-[GNU General Public License]:http://www.gnu.org/copyleft/gpl.html
 
-> Please come back for future versions!
+> Please come back in case of future release of Blender!
 
 [GitHub Normalize Style]:https://assets-cdn.github.com/assets/github-c2741248e2d3621dc617258de9bfdf42cf72de75b75daa7f6e388f0e5208d5f4.css
+[GNU General Public License]:http://www.gnu.org/copyleft/gpl.html
