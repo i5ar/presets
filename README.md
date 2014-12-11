@@ -33,6 +33,11 @@ Blender v2.72
 
 [GNU General Public License]
 
+### Todo
+
+- Graph Editor
+- Dope Sheet
+
 [GNU General Public License]:http://www.gnu.org/copyleft/gpl.html
 
 > Please come back for future versions!
