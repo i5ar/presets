@@ -5,7 +5,7 @@ Just a Blender theme.
 
 ### The iSarch Blender theme styled along with the brand
 
-A sparkling blu dark theme.
+A sparkling blu dark theme styled with care by iSar.
 
 ![alt text](https://github.com/i5ar/presets/blob/master/interface_theme/blender-itheme.jpg)
 
