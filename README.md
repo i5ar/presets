@@ -9,7 +9,7 @@ A sparkling blu dark theme styled with care.
 
 ![alt text](https://github.com/i5ar/presets/blob/master/interface_theme/blender-itheme.jpg)
 
-The Text Editor styles are inspired by [GitHub Normalize Style].
+The Text Editor style is inspired by [GitHub Normalize Style].
 
 ```xml
 <ThemeTextEditor line_numbers_background="#F7F7F7"
