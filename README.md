@@ -12,7 +12,7 @@ iSarch theme interface
 
 A sparkling blu dark theme styled with care.
 
-![alt text](https://github.com/i5ar/presets/blob/master/interface_theme/blender-itheme.jpg)
+![alt text](https://github.com/i5ar/presets/blob/master/interface_theme/custom-layout.jpg)
 
 The Text Editor style is inspired by [GitHub Normalize Style].
 
