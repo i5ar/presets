@@ -33,7 +33,7 @@ The Text Editor style is inspired by [GitHub Normalize Style].
 ### Installation
 Open up the [User Preferences...] menu, go to [Themes] then click the [Install Theme...] button and pick the .xml file!
 
-![alt text](http://wiki.blender.org/uploads/thumb/5/5f/User-preferences-themes.jpg/650px-User-preferences-themes.jpg)
+![alt text](http://1drv.ms/1GLVSX1)
 
 ### Compatibility
 
