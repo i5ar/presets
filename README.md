@@ -12,7 +12,7 @@ iSarch theme interface
 
 A sparkling blu dark theme styled with care.
 
-![alt text](https://github.com/i5ar/presets/blob/master/interface_theme/images/custom-layout.jpg)
+![alt text](http://bit.ly/16tv3vR)
 
 The Text Editor style is inspired by [GitHub Normalize Style].
 
@@ -33,7 +33,7 @@ The Text Editor style is inspired by [GitHub Normalize Style].
 ### Installation
 Open up the [User Preferences...] menu, go to [Themes] then click the [Install Theme...] button and pick the .xml file!
 
-![alt text](http://1drv.ms/1GLVSX1)
+![alt text](http://wiki.blender.org/uploads/thumb/5/5f/User-preferences-themes.jpg/650px-User-preferences-themes.jpg)
 
 ### Compatibility
 
