@@ -7,8 +7,9 @@ Just some Blender preset configurations.
 - iSar key configuration
 
 iSarch theme interface
+----------------------
 
-### The iSarch Blender theme styled along with the brand
+The iSar Blender theme styled along with the brand
 
 A sparkling blu dark theme styled with care.
 
