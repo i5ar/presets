@@ -44,21 +44,21 @@ Blender v2.72
 
 [GNU General Public License]
 
+**Free to Use. Free to Change. Free to Share. Free to Sell.**
+
 ### Todo
 
 - Graph Editor
 - Dope Sheet
 
-
 > This theme has been successfully tested with Blender v2.72. Please come for future releases.
-
 
 iSar key configuration
 ----------------------
 
 Just a left mouse select.
 
-> Happy Blending!
+**Happy Blending!**
 
 [GitHub Normalize Style]:https://assets-cdn.github.com/assets/github-c2741248e2d3621dc617258de9bfdf42cf72de75b75daa7f6e388f0e5208d5f4.css
 [GNU General Public License]:http://www.gnu.org/copyleft/gpl.html
