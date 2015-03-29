@@ -9,9 +9,7 @@ Just some Blender preset configurations.
 iSarch theme interface
 ----------------------
 
-The iSar Blender theme styled along with the brand.
-
-A sparkling blu dark theme styled with care.
+The iSar Blender theme is a sparkling blu dark theme styled with care.
 
 ![alt text](http://bit.ly/16tv3vR)
 
