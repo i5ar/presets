@@ -13,22 +13,6 @@ The iSar Blender theme is a sparkling blu dark theme styled with care.
 
 ![alt text](http://bit.ly/16tv3vR)
 
-The Text Editor colors:
-
-```xml
-<ThemeTextEditor line_numbers_background="#F7F7F7"
-	selected_text="#B2CCE6"
-	cursor="#E6402A"
-	syntax_builtin="#A71D5D"
-	syntax_symbols="#333333"
-	syntax_special="#A71D5D"
-	syntax_preprocessor="#0086B3"
-	syntax_reserved="#AF2715"
-	syntax_comment="#969896"
-	syntax_string="#6E00FF"
-	syntax_numbers="#0086B3">
-```
-
 ### Installation
 Open up the [User Preferences...] menu, go to [Themes] then click the [Install Theme...] button and pick the .xml file!
 
