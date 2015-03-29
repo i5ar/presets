@@ -3,8 +3,8 @@ presets
 
 Just some Blender preset configurations.
 
-- iSarch interface theme
-- iSar key configuration
+- [iSarch interface theme](#isarch-theme-interface)
+- [iSar key configuration](#isar-key-configuratio)
 
 iSarch theme interface
 ----------------------
