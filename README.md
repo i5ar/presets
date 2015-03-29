@@ -15,7 +15,7 @@ A sparkling blu dark theme styled with care.
 
 ![alt text](http://bit.ly/16tv3vR)
 
-The Text Editor style is inspired by [GitHub Normalize Style].
+The Text Editor style:
 
 ```xml
 <ThemeTextEditor line_numbers_background="#F7F7F7"
@@ -62,7 +62,6 @@ ___
 
 **Happy Blending!**
 
-[GitHub Normalize Style]:https://assets-cdn.github.com/assets/github-c2741248e2d3621dc617258de9bfdf42cf72de75b75daa7f6e388f0e5208d5f4.css
 [GNU General Public License]:http://www.gnu.org/copyleft/gpl.html
 [User Preferences...]:http://wiki.blender.org/index.php/Doc:2.6/Manual/Preferences
 [Themes]:http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Interface/Themes/
