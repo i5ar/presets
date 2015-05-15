@@ -46,11 +46,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-
-#############
-## Images
-#############
-
-# Windows image folder
-images/
