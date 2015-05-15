@@ -11,12 +11,10 @@ iSarch theme interface
 
 The iSar Blender theme is a sparkling blu dark theme styled with care.
 
-![alt text](http://bit.ly/16tv3vR)
+![alt text](https://github.com/i5ar/presets/blob/master/images/theme.jpg)
 
 ### Installation
 Open up the [User Preferences...] menu, go to [Themes] then click the [Install Theme...] button and pick the .xml file!
-
-![alt text](http://wiki.blender.org/uploads/thumb/5/5f/User-preferences-themes.jpg/650px-User-preferences-themes.jpg)
 
 ### Compatibility
 
